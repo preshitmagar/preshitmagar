@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Preshit Magar
 - 👀 I’m interested in Design, Web Design, Web development and game devolopment.
-- 🌱 I’m currently learning - Unreal Engine 5.
+- 🌱 I’m currently learning - ReactJs and Angular
 
 
 <!---
