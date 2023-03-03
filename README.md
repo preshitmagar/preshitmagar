@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Preshit Magar
-- 👀 I’m interested in Design, Web Design, Web development and game devolopment.
+- 👀 I’m interested in Design, front-end development and game development.
 - 🌱 I’m currently learning - ReactJs and Angular
 
 
