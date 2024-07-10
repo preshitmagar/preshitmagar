@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Preshit Magar
-- 👀 Full-stack developer
+- 👀 Full-stack Web developer
 
 
 <!---
